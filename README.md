@@ -5,6 +5,9 @@
 ![774106833](https://github.com/SuperDubbo/JDBABY/blob/master/images/QQ/774106833.png)
 ![59860415](https://github.com/SuperDubbo/JDBABY/blob/master/images/QQ/59860415.png)<br/>
 
+# 交流微信群
+<img src="https://github.com/SuperDubbo/JDBABY/blob/master/images/WeChat/1.jpg" width="500" height="500"/>
+
 [更多资料](https://github.com/SuperDubbo/JDBABY/wiki)
 
 
