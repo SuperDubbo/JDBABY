@@ -8,6 +8,9 @@
 # 交流微信群
 <img src="https://github.com/SuperDubbo/JDBABY/blob/master/images/WeChat/1.jpg" width="500" height="500"/>
 
+# 公众号推荐
+<img src="https://github.com/SuperDubbo/JDBABY/blob/master/images/WeChat/CHT-BABY.jpg" />
+
 [更多资料](https://github.com/SuperDubbo/JDBABY/wiki)
 
 
