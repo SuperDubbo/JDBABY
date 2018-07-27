@@ -8,4 +8,4 @@
 [更多资料](https://github.com/SuperDubbo/JDBABY/wiki)
 
 
-# [关于我](https://github.com/SuperDubbo/JDBABY/wiki/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%88About-Me%EF%BC%89)
+# [关于我们](https://github.com/SuperDubbo/JDBABY/wiki/%E5%85%B3%E4%BA%8E%E6%88%91%EF%BC%88About-Me%EF%BC%89)
